@@ -1,1 +1,1 @@
-LDS Discuss is an open-source, real-time discuss site for people interested in topics relating to the Church of Jesus Christ of Latter-day Saints.  The site is built with [Meteor](http://meteor.com) and is a fork from TelescopeJS.
+LDS Discuss is an open-source, real-time discussion site for people interested in topics relating to the Church of Jesus Christ of Latter-day Saints.  The site is built with [Meteor](http://meteor.com) and is a fork from TelescopeJS.
